@@ -1,2 +1,2 @@
 # Program1
-Here u can seed my classes with profehugonex
+Here u can see my classes with profehugonex
