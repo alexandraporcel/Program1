@@ -14,3 +14,4 @@ Clases de Rust con profehugonex.
 - Usamos la terminal y VS Code para compilar y verificar el código.
 - We used the terminal and VS Code to compile and verify the code.
 - El comando `cargo run` compila y ejecuta el programa.
+- Usamos `if...else`, `loop`, `while`, `for` y `funciones` como recordatorio antes de ingresar al tema  `POO` (Programación Orientada a Objetos)
