@@ -8,6 +8,7 @@ Clases de Rust con profehugonex.
 | Clase | Tema |
 |-------|------|
 | [clase1](clase1) | Variables con `let` y `let mut` |
+| [clase2](clase2) | Recuerdos del uso del `loop`, `while`, `for` y `funciones`  |
 
 ## Notas
 - Usamos la terminal y VS Code para compilar y verificar el código.
